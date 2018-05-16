@@ -8,15 +8,20 @@ input[type=text] {
 }
 input[type=text]:focus {
     width: 100%;
-}indexdigport
+}
 img{
-	text-align: center;
-	width: 50%;
+	width: 60%;
 }
 .container-fluid1{
 	background-color: yellow;
 }
+.container-fluid1 h4{
+	font-style: italic;
+}
 .container-fluid3{
 	background-color: #42434c;
 	color: white;
+}
+.center{
+	text-align: center;
 }
